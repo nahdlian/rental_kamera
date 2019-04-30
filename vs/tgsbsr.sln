@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tgsbsr", "tgsbsr\tgsbsr.csproj", "{A626D96A-D26B-45C5-9F27-D67C4FD8843F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A626D96A-D26B-45C5-9F27-D67C4FD8843F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A626D96A-D26B-45C5-9F27-D67C4FD8843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A626D96A-D26B-45C5-9F27-D67C4FD8843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A626D96A-D26B-45C5-9F27-D67C4FD8843F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
